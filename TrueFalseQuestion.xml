@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<question type="truefalse">
+    <name>
+		<text>Demo question true false</text>
+	</name>
+    <questiontext format="html">
+        <text>Est-ce que c'est vrai ou faux?</text>
+    </questiontext>
+    <penalty>1</penalty>
+	<defaultgrade>1</defaultgrade>
+    <answer fraction="100">
+        <text>true</text>
+        <feedback><text>Correct!</text></feedback>
+    </answer>
+    <answer fraction="0">
+        <text>false</text>
+        <feedback><text>Ooops!</text></feedback>
+    </answer>
+</question>
