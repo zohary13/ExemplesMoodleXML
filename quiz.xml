@@ -2,7 +2,7 @@
 <quiz>
 <question type="matching">
 	<name>
-		<text>Demo question d'appariement</text>
+		<text>Demos question d'appariement</text>
 	</name>
 	<questiontext format="html">
 		<text>Quel est la bonne réponse ?</text>
